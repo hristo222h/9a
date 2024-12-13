@@ -1,0 +1,7 @@
+C:\Users\1409-8\source\repos\variant\variant\bin\Debug\variant.exe.config
+C:\Users\1409-8\source\repos\variant\variant\bin\Debug\variant.exe
+C:\Users\1409-8\source\repos\variant\variant\bin\Debug\variant.pdb
+C:\Users\1409-8\source\repos\variant\variant\obj\Debug\variant.csproj.AssemblyReference.cache
+C:\Users\1409-8\source\repos\variant\variant\obj\Debug\variant.csproj.CoreCompileInputs.cache
+C:\Users\1409-8\source\repos\variant\variant\obj\Debug\variant.exe
+C:\Users\1409-8\source\repos\variant\variant\obj\Debug\variant.pdb

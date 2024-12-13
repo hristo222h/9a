@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1409-8\\source\\repos\\variant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B131356D-AF03-4FEC-B27B-94D89A7C712E}|variant\\variant.csproj|c:\\users\\1409-8\\source\\repos\\variant\\variant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B131356D-AF03-4FEC-B27B-94D89A7C712E}|variant\\variant.csproj|solutionrelative:variant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1409-8\\source\\repos\\variant\\variant\\Program.cs",
+              "RelativeDocumentMoniker": "variant\\Program.cs",
+              "ToolTip": "C:\\Users\\1409-8\\source\\repos\\variant\\variant\\Program.cs",
+              "RelativeToolTip": "variant\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:48:31.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
