@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hristo222\\source\\repos\\domashna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE9ADF3-62B4-4D3D-91C9-A7B87F3E0F7D}|zad 1,2\\zad 1,2.csproj|c:\\users\\hristo222\\source\\repos\\domashna\\zad 1,2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE9ADF3-62B4-4D3D-91C9-A7B87F3E0F7D}|zad 1,2\\zad 1,2.csproj|solutionrelative:zad 1,2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460B61BD-5A8B-43FC-8364-8F9C2C6B247D}|zad 14\\zad 14.csproj|c:\\users\\hristo222\\source\\repos\\domashna\\zad 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460B61BD-5A8B-43FC-8364-8F9C2C6B247D}|zad 14\\zad 14.csproj|solutionrelative:zad 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFE6CF6-EAC5-4299-92D3-457B3545E7AD}|zad 13\\zad 13.csproj|c:\\users\\hristo222\\source\\repos\\domashna\\zad 13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFE6CF6-EAC5-4299-92D3-457B3545E7AD}|zad 13\\zad 13.csproj|solutionrelative:zad 13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A753AE6-78E9-4B2D-B163-F99DFC825E52}|zad 12\\zad 12.csproj|c:\\users\\hristo222\\source\\repos\\domashna\\zad 12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A753AE6-78E9-4B2D-B163-F99DFC825E52}|zad 12\\zad 12.csproj|solutionrelative:zad 12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4F4DDD-1B89-4391-A0C9-DF2E868A6970}|zad 11\\zad 11.csproj|c:\\users\\hristo222\\source\\repos\\domashna\\zad 11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4F4DDD-1B89-4391-A0C9-DF2E868A6970}|zad 11\\zad 11.csproj|solutionrelative:zad 11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA5B8AE-E3BB-4520-810B-63ED328DFFC7}|zad 10\\zad 10.csproj|c:\\users\\hristo222\\source\\repos\\domashna\\zad 10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA5B8AE-E3BB-4520-810B-63ED328DFFC7}|zad 10\\zad 10.csproj|solutionrelative:zad 10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BA0CCD-A631-4FB0-AA76-282FEBBC80EF}|zad 9\\zad 9.csproj|c:\\users\\hristo222\\source\\repos\\domashna\\zad 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BA0CCD-A631-4FB0-AA76-282FEBBC80EF}|zad 9\\zad 9.csproj|solutionrelative:zad 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380CBB9F-EC3E-4CFF-8BD4-78AD166192AB}|zad 4\\zad 4.csproj|c:\\users\\hristo222\\source\\repos\\domashna\\zad 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380CBB9F-EC3E-4CFF-8BD4-78AD166192AB}|zad 4\\zad 4.csproj|solutionrelative:zad 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41CA561-CD4A-4414-A7F5-12C7A968330C}|zad 5\\zad 5.csproj|c:\\users\\hristo222\\source\\repos\\domashna\\zad 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41CA561-CD4A-4414-A7F5-12C7A968330C}|zad 5\\zad 5.csproj|solutionrelative:zad 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B1E56-A78B-4303-A2B8-F7466322A221}|zad 6\\zad 6.csproj|c:\\users\\hristo222\\source\\repos\\domashna\\zad 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074B1E56-A78B-4303-A2B8-F7466322A221}|zad 6\\zad 6.csproj|solutionrelative:zad 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2E2EB1-4340-488A-B84E-C23A119B645C}|zad 7\\zad 7.csproj|c:\\users\\hristo222\\source\\repos\\domashna\\zad 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2E2EB1-4340-488A-B84E-C23A119B645C}|zad 7\\zad 7.csproj|solutionrelative:zad 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84629A74-FDE2-49BA-B3C0-53DC0E791C19}|zad 8\\zad 8.csproj|c:\\users\\hristo222\\source\\repos\\domashna\\zad 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84629A74-FDE2-49BA-B3C0-53DC0E791C19}|zad 8\\zad 8.csproj|solutionrelative:zad 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957FC2D8-E6D1-46AE-A0BD-718E140FB8FB}|zad 3\\zad 3.csproj|c:\\users\\hristo222\\source\\repos\\domashna\\zad 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957FC2D8-E6D1-46AE-A0BD-718E140FB8FB}|zad 3\\zad 3.csproj|solutionrelative:zad 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 1,2\\Program.cs",
+              "RelativeDocumentMoniker": "zad 1,2\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 1,2\\Program.cs",
+              "RelativeToolTip": "zad 1,2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:56:44.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 14\\Program.cs",
+              "RelativeDocumentMoniker": "zad 14\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 14\\Program.cs",
+              "RelativeToolTip": "zad 14\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:54:23.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 13\\Program.cs",
+              "RelativeDocumentMoniker": "zad 13\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 13\\Program.cs",
+              "RelativeToolTip": "zad 13\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:53:38.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 12\\Program.cs",
+              "RelativeDocumentMoniker": "zad 12\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 12\\Program.cs",
+              "RelativeToolTip": "zad 12\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:50:00.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 11\\Program.cs",
+              "RelativeDocumentMoniker": "zad 11\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 11\\Program.cs",
+              "RelativeToolTip": "zad 11\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:49:09.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 10\\Program.cs",
+              "RelativeDocumentMoniker": "zad 10\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 10\\Program.cs",
+              "RelativeToolTip": "zad 10\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:46:58.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 9\\Program.cs",
+              "RelativeDocumentMoniker": "zad 9\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 9\\Program.cs",
+              "RelativeToolTip": "zad 9\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:45:10.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 8\\Program.cs",
+              "RelativeDocumentMoniker": "zad 8\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 8\\Program.cs",
+              "RelativeToolTip": "zad 8\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:42:09.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 7\\Program.cs",
+              "RelativeDocumentMoniker": "zad 7\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 7\\Program.cs",
+              "RelativeToolTip": "zad 7\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:37:13.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 6\\Program.cs",
+              "RelativeDocumentMoniker": "zad 6\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 6\\Program.cs",
+              "RelativeToolTip": "zad 6\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:36:11.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 5\\Program.cs",
+              "RelativeDocumentMoniker": "zad 5\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 5\\Program.cs",
+              "RelativeToolTip": "zad 5\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:34:39.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 4\\Program.cs",
+              "RelativeDocumentMoniker": "zad 4\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 4\\Program.cs",
+              "RelativeToolTip": "zad 4\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:32:21.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 3\\Program.cs",
+              "RelativeDocumentMoniker": "zad 3\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\source\\repos\\domashna\\zad 3\\Program.cs",
+              "RelativeToolTip": "zad 3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:30:25.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
