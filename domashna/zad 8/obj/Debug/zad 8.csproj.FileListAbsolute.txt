@@ -1,7 +1,0 @@
-C:\Users\hristo222\Desktop\9a\domashna1\zad 8\bin\Debug\zad 8.exe.config
-C:\Users\hristo222\Desktop\9a\domashna1\zad 8\bin\Debug\zad 8.exe
-C:\Users\hristo222\Desktop\9a\domashna1\zad 8\bin\Debug\zad 8.pdb
-C:\Users\hristo222\Desktop\9a\domashna1\zad 8\obj\Debug\zad 8.csproj.AssemblyReference.cache
-C:\Users\hristo222\Desktop\9a\domashna1\zad 8\obj\Debug\zad 8.csproj.CoreCompileInputs.cache
-C:\Users\hristo222\Desktop\9a\domashna1\zad 8\obj\Debug\zad 8.exe
-C:\Users\hristo222\Desktop\9a\domashna1\zad 8\obj\Debug\zad 8.pdb
