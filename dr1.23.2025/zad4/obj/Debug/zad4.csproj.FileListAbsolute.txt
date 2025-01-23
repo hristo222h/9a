@@ -1,0 +1,7 @@
+C:\Users\hristo222\Desktop\9a\dr1.23.2025\zad4\bin\Debug\zad4.exe.config
+C:\Users\hristo222\Desktop\9a\dr1.23.2025\zad4\bin\Debug\zad4.exe
+C:\Users\hristo222\Desktop\9a\dr1.23.2025\zad4\bin\Debug\zad4.pdb
+C:\Users\hristo222\Desktop\9a\dr1.23.2025\zad4\obj\Debug\zad4.csproj.AssemblyReference.cache
+C:\Users\hristo222\Desktop\9a\dr1.23.2025\zad4\obj\Debug\zad4.csproj.CoreCompileInputs.cache
+C:\Users\hristo222\Desktop\9a\dr1.23.2025\zad4\obj\Debug\zad4.exe
+C:\Users\hristo222\Desktop\9a\dr1.23.2025\zad4\obj\Debug\zad4.pdb
