@@ -1,0 +1,7 @@
+C:\Users\hristo222\Desktop\9a\cikul 9a\cikul 9a\bin\Debug\cikul 9a.exe.config
+C:\Users\hristo222\Desktop\9a\cikul 9a\cikul 9a\bin\Debug\cikul 9a.exe
+C:\Users\hristo222\Desktop\9a\cikul 9a\cikul 9a\bin\Debug\cikul 9a.pdb
+C:\Users\hristo222\Desktop\9a\cikul 9a\cikul 9a\obj\Debug\cikul 9a.csproj.AssemblyReference.cache
+C:\Users\hristo222\Desktop\9a\cikul 9a\cikul 9a\obj\Debug\cikul 9a.csproj.CoreCompileInputs.cache
+C:\Users\hristo222\Desktop\9a\cikul 9a\cikul 9a\obj\Debug\cikul 9a.exe
+C:\Users\hristo222\Desktop\9a\cikul 9a\cikul 9a\obj\Debug\cikul 9a.pdb
