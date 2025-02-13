@@ -1,0 +1,7 @@
+C:\Users\hristo222\source\repos\zadaca\zadaca\obj\Debug\zadaca.csproj.AssemblyReference.cache
+C:\Users\hristo222\source\repos\zadaca\zadaca\obj\Debug\zadaca.csproj.CoreCompileInputs.cache
+C:\Users\hristo222\source\repos\zadaca\zadaca\bin\Debug\zadaca.exe.config
+C:\Users\hristo222\source\repos\zadaca\zadaca\bin\Debug\zadaca.exe
+C:\Users\hristo222\source\repos\zadaca\zadaca\bin\Debug\zadaca.pdb
+C:\Users\hristo222\source\repos\zadaca\zadaca\obj\Debug\zadaca.exe
+C:\Users\hristo222\source\repos\zadaca\zadaca\obj\Debug\zadaca.pdb

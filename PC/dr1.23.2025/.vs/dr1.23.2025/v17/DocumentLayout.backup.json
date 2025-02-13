@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hristo222\\Desktop\\9a\\dr1.23.2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0283D94-51D9-47C2-8219-487C7B2CA970}|zad4\\zad4.csproj|c:\\users\\hristo222\\desktop\\9a\\dr1.23.2025\\zad4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0283D94-51D9-47C2-8219-487C7B2CA970}|zad4\\zad4.csproj|solutionrelative:zad4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61B9D05-54F7-4456-B667-786C9339086A}|zad3\\zad3.csproj|C:\\Users\\hristo222\\Desktop\\9a\\dr1.23.2025\\zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61B9D05-54F7-4456-B667-786C9339086A}|zad3\\zad3.csproj|solutionrelative:zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5137A77F-F398-45F7-8A0E-40231EE94AC7}|zad2\\zad2.csproj|C:\\Users\\hristo222\\Desktop\\9a\\dr1.23.2025\\zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5137A77F-F398-45F7-8A0E-40231EE94AC7}|zad2\\zad2.csproj|solutionrelative:zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3C4E6B-19CB-40B5-AF01-99438B8A5D13}|zad1\\zad1.csproj|C:\\Users\\hristo222\\Desktop\\9a\\dr1.23.2025\\zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3C4E6B-19CB-40B5-AF01-99438B8A5D13}|zad1\\zad1.csproj|solutionrelative:zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\Desktop\\9a\\dr1.23.2025\\zad4\\Program.cs",
+              "RelativeDocumentMoniker": "zad4\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\Desktop\\9a\\dr1.23.2025\\zad4\\Program.cs",
+              "RelativeToolTip": "zad4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:56:59.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\Desktop\\9a\\dr1.23.2025\\zad3\\Program.cs",
+              "RelativeDocumentMoniker": "zad3\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\Desktop\\9a\\dr1.23.2025\\zad3\\Program.cs",
+              "RelativeToolTip": "zad3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:53:34.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\Desktop\\9a\\dr1.23.2025\\zad2\\Program.cs",
+              "RelativeDocumentMoniker": "zad2\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\Desktop\\9a\\dr1.23.2025\\zad2\\Program.cs",
+              "RelativeToolTip": "zad2\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:35:25.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hristo222\\Desktop\\9a\\dr1.23.2025\\zad1\\Program.cs",
+              "RelativeDocumentMoniker": "zad1\\Program.cs",
+              "ToolTip": "C:\\Users\\hristo222\\Desktop\\9a\\dr1.23.2025\\zad1\\Program.cs",
+              "RelativeToolTip": "zad1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:05:39.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

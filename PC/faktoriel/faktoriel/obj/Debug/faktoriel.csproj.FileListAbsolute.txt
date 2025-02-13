@@ -1,0 +1,7 @@
+C:\Users\1409-8\source\repos\faktoriel\faktoriel\bin\Debug\faktoriel.exe.config
+C:\Users\1409-8\source\repos\faktoriel\faktoriel\bin\Debug\faktoriel.exe
+C:\Users\1409-8\source\repos\faktoriel\faktoriel\bin\Debug\faktoriel.pdb
+C:\Users\1409-8\source\repos\faktoriel\faktoriel\obj\Debug\faktoriel.csproj.AssemblyReference.cache
+C:\Users\1409-8\source\repos\faktoriel\faktoriel\obj\Debug\faktoriel.csproj.CoreCompileInputs.cache
+C:\Users\1409-8\source\repos\faktoriel\faktoriel\obj\Debug\faktoriel.exe
+C:\Users\1409-8\source\repos\faktoriel\faktoriel\obj\Debug\faktoriel.pdb

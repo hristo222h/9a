@@ -1,0 +1,7 @@
+C:\Users\hristo222\source\repos\nz\nz\bin\Debug\nz.exe.config
+C:\Users\hristo222\source\repos\nz\nz\bin\Debug\nz.exe
+C:\Users\hristo222\source\repos\nz\nz\bin\Debug\nz.pdb
+C:\Users\hristo222\source\repos\nz\nz\obj\Debug\nz.csproj.AssemblyReference.cache
+C:\Users\hristo222\source\repos\nz\nz\obj\Debug\nz.csproj.CoreCompileInputs.cache
+C:\Users\hristo222\source\repos\nz\nz\obj\Debug\nz.exe
+C:\Users\hristo222\source\repos\nz\nz\obj\Debug\nz.pdb

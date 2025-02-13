@@ -1,0 +1,14 @@
+C:\Users\1409-8\source\repos\faktoriel\sumirane na chisla\bin\Debug\sumirane na chisla.exe.config
+C:\Users\1409-8\source\repos\faktoriel\sumirane na chisla\bin\Debug\sumirane na chisla.exe
+C:\Users\1409-8\source\repos\faktoriel\sumirane na chisla\bin\Debug\sumirane na chisla.pdb
+C:\Users\1409-8\source\repos\faktoriel\sumirane na chisla\obj\Debug\sumirane na chisla.csproj.AssemblyReference.cache
+C:\Users\1409-8\source\repos\faktoriel\sumirane na chisla\obj\Debug\sumirane na chisla.csproj.CoreCompileInputs.cache
+C:\Users\1409-8\source\repos\faktoriel\sumirane na chisla\obj\Debug\sumirane na chisla.exe
+C:\Users\1409-8\source\repos\faktoriel\sumirane na chisla\obj\Debug\sumirane na chisla.pdb
+C:\Users\1409-8\Desktop\Христомир 9а\faktoriel\sumirane na chisla\bin\Debug\sumirane na chisla.exe.config
+C:\Users\1409-8\Desktop\Христомир 9а\faktoriel\sumirane na chisla\bin\Debug\sumirane na chisla.exe
+C:\Users\1409-8\Desktop\Христомир 9а\faktoriel\sumirane na chisla\bin\Debug\sumirane na chisla.pdb
+C:\Users\1409-8\Desktop\Христомир 9а\faktoriel\sumirane na chisla\obj\Debug\sumirane na chisla.csproj.AssemblyReference.cache
+C:\Users\1409-8\Desktop\Христомир 9а\faktoriel\sumirane na chisla\obj\Debug\sumirane na chisla.csproj.CoreCompileInputs.cache
+C:\Users\1409-8\Desktop\Христомир 9а\faktoriel\sumirane na chisla\obj\Debug\sumirane na chisla.exe
+C:\Users\1409-8\Desktop\Христомир 9а\faktoriel\sumirane na chisla\obj\Debug\sumirane na chisla.pdb

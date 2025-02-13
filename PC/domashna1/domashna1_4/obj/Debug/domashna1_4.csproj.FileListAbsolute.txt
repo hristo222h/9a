@@ -1,0 +1,14 @@
+C:\Users\hristo222\source\repos\domashna1_4\domashna1_4\bin\Debug\domashna1_4.exe.config
+C:\Users\hristo222\source\repos\domashna1_4\domashna1_4\bin\Debug\domashna1_4.exe
+C:\Users\hristo222\source\repos\domashna1_4\domashna1_4\bin\Debug\domashna1_4.pdb
+C:\Users\hristo222\source\repos\domashna1_4\domashna1_4\obj\Debug\domashna1_4.csproj.AssemblyReference.cache
+C:\Users\hristo222\source\repos\domashna1_4\domashna1_4\obj\Debug\domashna1_4.csproj.CoreCompileInputs.cache
+C:\Users\hristo222\source\repos\domashna1_4\domashna1_4\obj\Debug\domashna1_4.exe
+C:\Users\hristo222\source\repos\domashna1_4\domashna1_4\obj\Debug\domashna1_4.pdb
+C:\Users\hristo222\Desktop\zadachi\domashna1\domashna1_4\bin\Debug\domashna1_4.exe.config
+C:\Users\hristo222\Desktop\zadachi\domashna1\domashna1_4\bin\Debug\domashna1_4.exe
+C:\Users\hristo222\Desktop\zadachi\domashna1\domashna1_4\bin\Debug\domashna1_4.pdb
+C:\Users\hristo222\Desktop\zadachi\domashna1\domashna1_4\obj\Debug\domashna1_4.csproj.AssemblyReference.cache
+C:\Users\hristo222\Desktop\zadachi\domashna1\domashna1_4\obj\Debug\domashna1_4.csproj.CoreCompileInputs.cache
+C:\Users\hristo222\Desktop\zadachi\domashna1\domashna1_4\obj\Debug\domashna1_4.exe
+C:\Users\hristo222\Desktop\zadachi\domashna1\domashna1_4\obj\Debug\domashna1_4.pdb
