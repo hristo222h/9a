@@ -1,0 +1,7 @@
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от имена II\bin\Debug\Списък от имена II.exe.config
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от имена II\bin\Debug\Списък от имена II.exe
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от имена II\bin\Debug\Списък от имена II.pdb
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от имена II\obj\Debug\Списък от имена II.csproj.AssemblyReference.cache
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от имена II\obj\Debug\Списък от имена II.csproj.CoreCompileInputs.cache
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от имена II\obj\Debug\Списък от имена II.exe
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от имена II\obj\Debug\Списък от имена II.pdb

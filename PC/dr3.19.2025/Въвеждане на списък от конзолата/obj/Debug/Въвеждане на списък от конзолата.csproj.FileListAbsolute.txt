@@ -1,0 +1,7 @@
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Въвеждане на списък от конзолата\bin\Debug\Въвеждане на списък от конзолата.exe.config
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Въвеждане на списък от конзолата\bin\Debug\Въвеждане на списък от конзолата.exe
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Въвеждане на списък от конзолата\bin\Debug\Въвеждане на списък от конзолата.pdb
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Въвеждане на списък от конзолата\obj\Debug\Въвеждане на списък от конзолата.csproj.AssemblyReference.cache
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Въвеждане на списък от конзолата\obj\Debug\Въвеждане на списък от конзолата.csproj.CoreCompileInputs.cache
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Въвеждане на списък от конзолата\obj\Debug\Въвеждане на списък от конзолата.exe
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Въвеждане на списък от конзолата\obj\Debug\Въвеждане на списък от конзолата.pdb

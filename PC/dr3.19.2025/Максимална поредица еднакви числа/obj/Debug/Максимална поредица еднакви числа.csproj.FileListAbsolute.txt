@@ -1,0 +1,7 @@
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Максимална поредица еднакви числа\bin\Debug\Максимална поредица еднакви числа.exe.config
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Максимална поредица еднакви числа\bin\Debug\Максимална поредица еднакви числа.exe
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Максимална поредица еднакви числа\bin\Debug\Максимална поредица еднакви числа.pdb
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Максимална поредица еднакви числа\obj\Debug\Максимална поредица еднакви числа.csproj.AssemblyReference.cache
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Максимална поредица еднакви числа\obj\Debug\Максимална поредица еднакви числа.csproj.CoreCompileInputs.cache
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Максимална поредица еднакви числа\obj\Debug\Максимална поредица еднакви числа.exe
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Максимална поредица еднакви числа\obj\Debug\Максимална поредица еднакви числа.pdb

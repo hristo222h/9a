@@ -1,0 +1,7 @@
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Премахни числото\bin\Debug\Премахни числото.exe.config
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Премахни числото\bin\Debug\Премахни числото.exe
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Премахни числото\bin\Debug\Премахни числото.pdb
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Премахни числото\obj\Debug\Премахни числото.csproj.AssemblyReference.cache
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Премахни числото\obj\Debug\Премахни числото.csproj.CoreCompileInputs.cache
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Премахни числото\obj\Debug\Премахни числото.exe
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Премахни числото\obj\Debug\Премахни числото.pdb

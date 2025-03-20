@@ -1,0 +1,7 @@
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от крайности\bin\Debug\Списък от крайности.exe.config
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от крайности\bin\Debug\Списък от крайности.exe
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от крайности\bin\Debug\Списък от крайности.pdb
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от крайности\obj\Debug\Списък от крайности.csproj.AssemblyReference.cache
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от крайности\obj\Debug\Списък от крайности.csproj.CoreCompileInputs.cache
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от крайности\obj\Debug\Списък от крайности.exe
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от крайности\obj\Debug\Списък от крайности.pdb

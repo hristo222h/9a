@@ -1,0 +1,7 @@
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Сума на обърнати числа\bin\Debug\Сума на обърнати числа.exe.config
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Сума на обърнати числа\bin\Debug\Сума на обърнати числа.exe
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Сума на обърнати числа\bin\Debug\Сума на обърнати числа.pdb
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Сума на обърнати числа\obj\Debug\Сума на обърнати числа.csproj.AssemblyReference.cache
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Сума на обърнати числа\obj\Debug\Сума на обърнати числа.csproj.CoreCompileInputs.cache
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Сума на обърнати числа\obj\Debug\Сума на обърнати числа.exe
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Сума на обърнати числа\obj\Debug\Сума на обърнати числа.pdb

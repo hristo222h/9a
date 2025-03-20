@@ -1,0 +1,7 @@
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от четни числа\bin\Debug\Списък от четни числа.exe.config
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от четни числа\bin\Debug\Списък от четни числа.exe
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от четни числа\bin\Debug\Списък от четни числа.pdb
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от четни числа\obj\Debug\Списък от четни числа.csproj.AssemblyReference.cache
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от четни числа\obj\Debug\Списък от четни числа.csproj.CoreCompileInputs.cache
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от четни числа\obj\Debug\Списък от четни числа.exe
+C:\Users\hristo222\Desktop\9a\PC\dr3.19.2025\Списък от четни числа\obj\Debug\Списък от четни числа.pdb
