@@ -1,0 +1,7 @@
+C:\Users\1409-9\Desktop\Христомир 9а\kucheshka sreshta\bin\Debug\kucheshka sreshta.exe.config
+C:\Users\1409-9\Desktop\Христомир 9а\kucheshka sreshta\bin\Debug\kucheshka sreshta.exe
+C:\Users\1409-9\Desktop\Христомир 9а\kucheshka sreshta\bin\Debug\kucheshka sreshta.pdb
+C:\Users\1409-9\Desktop\Христомир 9а\kucheshka sreshta\obj\Debug\kucheshka sreshta.csproj.AssemblyReference.cache
+C:\Users\1409-9\Desktop\Христомир 9а\kucheshka sreshta\obj\Debug\kucheshka sreshta.csproj.CoreCompileInputs.cache
+C:\Users\1409-9\Desktop\Христомир 9а\kucheshka sreshta\obj\Debug\kucheshka sreshta.exe
+C:\Users\1409-9\Desktop\Христомир 9а\kucheshka sreshta\obj\Debug\kucheshka sreshta.pdb
