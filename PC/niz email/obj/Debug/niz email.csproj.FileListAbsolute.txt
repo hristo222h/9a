@@ -1,0 +1,7 @@
+C:\Users\1409-9\Desktop\Христомир 9а\niz email\bin\Debug\niz email.exe.config
+C:\Users\1409-9\Desktop\Христомир 9а\niz email\bin\Debug\niz email.exe
+C:\Users\1409-9\Desktop\Христомир 9а\niz email\bin\Debug\niz email.pdb
+C:\Users\1409-9\Desktop\Христомир 9а\niz email\obj\Debug\niz email.csproj.AssemblyReference.cache
+C:\Users\1409-9\Desktop\Христомир 9а\niz email\obj\Debug\niz email.csproj.CoreCompileInputs.cache
+C:\Users\1409-9\Desktop\Христомир 9а\niz email\obj\Debug\niz email.exe
+C:\Users\1409-9\Desktop\Христомир 9а\niz email\obj\Debug\niz email.pdb
