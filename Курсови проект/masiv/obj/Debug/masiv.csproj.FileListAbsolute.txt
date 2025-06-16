@@ -1,0 +1,7 @@
+C:\Users\hrist\Desktop\New folder\masiv\bin\Debug\masiv.exe.config
+C:\Users\hrist\Desktop\New folder\masiv\bin\Debug\masiv.exe
+C:\Users\hrist\Desktop\New folder\masiv\bin\Debug\masiv.pdb
+C:\Users\hrist\Desktop\New folder\masiv\obj\Debug\masiv.csproj.AssemblyReference.cache
+C:\Users\hrist\Desktop\New folder\masiv\obj\Debug\masiv.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\New folder\masiv\obj\Debug\masiv.exe
+C:\Users\hrist\Desktop\New folder\masiv\obj\Debug\masiv.pdb

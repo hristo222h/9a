@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1970A0E-8A63-42CC-A386-1E37EFC26C2B}|..\\masiv\\masiv.csproj|c:\\users\\hrist\\desktop\\new folder\\masiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10680E-DC1D-4143-B5C2-69492A48599E}|Picariq.csproj|c:\\users\\hrist\\desktop\\new folder\\picariq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C10680E-DC1D-4143-B5C2-69492A48599E}|Picariq.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AE150E-BECF-421D-B831-65816B730038}|..\\Klas\\Klas.csproj|c:\\users\\hrist\\desktop\\new folder\\klas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AE150E-BECF-421D-B831-65816B730038}|..\\Klas\\Klas.csproj|c:\\users\\hrist\\desktop\\new folder\\klas\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10680E-DC1D-4143-B5C2-69492A48599E}|Picariq.csproj|C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C10680E-DC1D-4143-B5C2-69492A48599E}|Picariq.csproj|solutionrelative:class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10680E-DC1D-4143-B5C2-69492A48599E}|Picariq.csproj|C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C10680E-DC1D-4143-B5C2-69492A48599E}|Picariq.csproj|solutionrelative:class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10680E-DC1D-4143-B5C2-69492A48599E}|Picariq.csproj|C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C10680E-DC1D-4143-B5C2-69492A48599E}|Picariq.csproj|solutionrelative:class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10680E-DC1D-4143-B5C2-69492A48599E}|Picariq.csproj|C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C10680E-DC1D-4143-B5C2-69492A48599E}|Picariq.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\Desktop\\New folder\\masiv\\Program.cs",
+              "RelativeDocumentMoniker": "..\\masiv\\Program.cs",
+              "ToolTip": "C:\\Users\\hrist\\Desktop\\New folder\\masiv\\Program.cs",
+              "RelativeToolTip": "..\\masiv\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:13:14.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\Class4.cs",
+              "RelativeDocumentMoniker": "Class4.cs",
+              "ToolTip": "C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\Class4.cs",
+              "RelativeToolTip": "Class4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:43:09.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\Class3.cs",
+              "RelativeDocumentMoniker": "Class3.cs",
+              "ToolTip": "C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\Class3.cs",
+              "RelativeToolTip": "Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:42:28.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\Class2.cs",
+              "RelativeDocumentMoniker": "Class2.cs",
+              "ToolTip": "C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\Class2.cs",
+              "RelativeToolTip": "Class2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:41:53.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:41:24.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\Desktop\\New folder\\Klas\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Klas\\Product.cs",
+              "ToolTip": "C:\\Users\\hrist\\Desktop\\New folder\\Klas\\Product.cs",
+              "RelativeToolTip": "..\\Klas\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:16:03.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\Desktop\\New folder\\Klas\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Klas\\Program.cs",
+              "ToolTip": "C:\\Users\\hrist\\Desktop\\New folder\\Klas\\Program.cs",
+              "RelativeToolTip": "..\\Klas\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:15:33.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hrist\\Desktop\\New folder\\Picariq\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:14:34.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

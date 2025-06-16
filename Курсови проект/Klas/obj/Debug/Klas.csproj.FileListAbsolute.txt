@@ -1,0 +1,8 @@
+C:\Users\hrist\Desktop\New folder\Klas\bin\Debug\Klas.exe.config
+C:\Users\hrist\Desktop\New folder\Klas\bin\Debug\Klas.exe
+C:\Users\hrist\Desktop\New folder\Klas\bin\Debug\Klas.pdb
+C:\Users\hrist\Desktop\New folder\Klas\obj\Debug\Klas.csproj.AssemblyReference.cache
+C:\Users\hrist\Desktop\New folder\Klas\obj\Debug\Klas.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\New folder\Klas\obj\Debug\Klas.exe
+C:\Users\hrist\Desktop\New folder\Klas\obj\Debug\Klas.pdb
+C:\Users\hrist\Desktop\New folder\Klas\obj\Debug\Klas.exe.config
